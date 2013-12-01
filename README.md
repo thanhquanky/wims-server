@@ -1,4 +1,6 @@
-wims-server
+WIMS-server
 ===========
 
-Where is my stuffs - API server - Using Slim and Mysql
+A PHP-powered RESTful API server for Where is my stuffs Android app
+
+This server uses Slim Framework and MySQL
